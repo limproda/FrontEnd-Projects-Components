@@ -1,4 +1,4 @@
-# List of Frontend projects & Components
+# List of Frontend Projects & Components
 
 In this repository, you will find ideas and inspiration for different projects and components that you can use in your Frontend development.
 
